@@ -1,0 +1,120 @@
+
+C2:
+http://ci04495.tmweb[.]ru
+
+Hashes:
+
+0da3170c9bba29dde9a4deea8ca80306eb9f8fbc0a507a1410bd740e74713463
+ca9f51739afa3fec2b4c31d582eb915e2452a8440f0f3532acd28d4f3a7cde49
+4737cee2d47fc1b62da62bc6b687471ca4c19f181dd5b2f6edf249424c3c6a1c
+c7886689c31da2fad343f7583ae290054216533a186b1fee164f55f1c5f74985
+f14607987003369143987356bd6cf19ab28d71a2d3a605996e31305ed2270641
+0681cf778b6952602e3876c129d2e081f823ce560faf5ffd8bc5a02e1d23e9a4
+35fb55cf26ee86c58c2866a8d55b7ead4bc29694430bbd6d26e4cfc565ec5c66
+89f988c55c7a7329293e82f86b7745743fad8e1a74520d48b4fe2777c1e1e17d
+cdb7c8d39c96de7b57398fa9d3bb1ed3f786c51f06d9fed779ab38bc2b521e0a
+e86e1dc07ce257425ab24fd2092b8404cdde676c773d08f7eab2bed483e7b38d
+6c5aaf3522a1e48e72429ceaf74e637403582185092124009ce037136e91fe17
+34b8cf8ea21d14d702b4ae05693fbeb4ef4cf7c2d1204ea715a829ed12b5cabd
+c3e90fbdad00f146bb9ab25b0f7c5a1f970c8828cbccf2a3ed0d8ebc7f2d41ab
+40e57e4f92cb173d02eab17cfab6855117d848101c76eb4e02301880a2846cf4
+2dfb9eca54c06f9ad9ddde9d19cf8f12b8e48c49bf7125e768d9b500355e9656
+07fb6a53e6c90af6f469cbd7501c62529657d6698d5531301ec2ef20edd6c137
+21d3bdea1d0bd1ce8f6cfb974ebeec78f322922f23fc580110325cdf2192776f
+4a341e4e6ee55c4b59ffd43712e8ecf2b5e2be98ece16004788c5104d7bc77db
+77e8e781d25a1c3b1b6a657e015059d2fe0cc015ac820cba9eff1ad9a75492a6
+325bd72aa6df7cbff880b472caf4f3c5b7042baac9ba46e41fc6f736f013a9fa
+f224645b52f3fac990a6252e226ace7b866697b1f3a36c82cd3084524ea7d424
+88f4b7bae6cc8ba70dd373d9d4027e3f5124f2d929856e559b19ee2fa58d02b2
+
+JSON:
+
+[{'Hash': '0da3170c9bba29dde9a4deea8ca80306eb9f8fbc0a507a1410bd740e74713463',
+  'Filename': 'herson_1.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/nest/nerves/relic.dot'},
+ {'Hash': 'ca9f51739afa3fec2b4c31d582eb915e2452a8440f0f3532acd28d4f3a7cde49',
+  'Filename': 'herson_1.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/preparations/guide/headstone.dot'},
+ {'Hash': '4737cee2d47fc1b62da62bc6b687471ca4c19f181dd5b2f6edf249424c3c6a1c',
+  'Filename': 'herson_1.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/seeing/preparing/sense.dot'},
+ {'Hash': 'c7886689c31da2fad343f7583ae290054216533a186b1fee164f55f1c5f74985',
+  'Filename': 'herson_2.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/rehearsal/queer/prescription.dot'},
+ {'Hash': 'f14607987003369143987356bd6cf19ab28d71a2d3a605996e31305ed2270641',
+  'Filename': 'herson_2.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/health/basically/lost.dot'},
+ {'Hash': '0681cf778b6952602e3876c129d2e081f823ce560faf5ffd8bc5a02e1d23e9a4',
+  'Filename': 'herson_2.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/integral/reliable/instrument.dot'},
+ {'Hash': '35fb55cf26ee86c58c2866a8d55b7ead4bc29694430bbd6d26e4cfc565ec5c66',
+  'Filename': 'herson_2.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/quarx/bar/relic.dot'},
+ {'Hash': '89f988c55c7a7329293e82f86b7745743fad8e1a74520d48b4fe2777c1e1e17d',
+  'Filename': 'herson_3.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/instructor/queer/decay.dot'},
+ {'Hash': 'cdb7c8d39c96de7b57398fa9d3bb1ed3f786c51f06d9fed779ab38bc2b521e0a',
+  'Filename': 'herson_3.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/bandage/grudge/nephew.dot'},
+ {'Hash': 'e86e1dc07ce257425ab24fd2092b8404cdde676c773d08f7eab2bed483e7b38d',
+  'Filename': 'herson_3.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/header/growl/relief.dot'},
+ {'Hash': '6c5aaf3522a1e48e72429ceaf74e637403582185092124009ce037136e91fe17',
+  'Filename': 'herson_4.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/quarx/pregnant/bar.dot'},
+ {'Hash': '34b8cf8ea21d14d702b4ae05693fbeb4ef4cf7c2d1204ea715a829ed12b5cabd',
+  'Filename': 'herson_4.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/instruct/query/growled.dot'},
+ {'Hash': 'c3e90fbdad00f146bb9ab25b0f7c5a1f970c8828cbccf2a3ed0d8ebc7f2d41ab',
+  'Filename': 'herson_5.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/reins/deadlock/selection.dot'},
+ {'Hash': '40e57e4f92cb173d02eab17cfab6855117d848101c76eb4e02301880a2846cf4',
+  'Filename': 'herson_5.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/guarded/network/precision.dot'},
+ {'Hash': '2dfb9eca54c06f9ad9ddde9d19cf8f12b8e48c49bf7125e768d9b500355e9656',
+  'Filename': 'herson_6.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/hear/lot/headphones.dot'},
+ {'Hash': '07fb6a53e6c90af6f469cbd7501c62529657d6698d5531301ec2ef20edd6c137',
+  'Filename': 'herson_6.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/seldom/grudge/sentiments.dot'},
+ {'Hash': '21d3bdea1d0bd1ce8f6cfb974ebeec78f322922f23fc580110325cdf2192776f',
+  'Filename': 'herson_7.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/regiment/basically/separation.dot'},
+ {'Hash': '4a341e4e6ee55c4b59ffd43712e8ecf2b5e2be98ece16004788c5104d7bc77db',
+  'Filename': 'herson_7.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/separate/series/barge.dot'},
+ {'Hash': '77e8e781d25a1c3b1b6a657e015059d2fe0cc015ac820cba9eff1ad9a75492a6',
+  'Filename': 'herson_8.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/self/bare/regarding.dot'},
+ {'Hash': '325bd72aa6df7cbff880b472caf4f3c5b7042baac9ba46e41fc6f736f013a9fa',
+  'Filename': 'herson_8.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/precaution/refrigerator/precise.dot'},
+ {'Hash': 'f224645b52f3fac990a6252e226ace7b866697b1f3a36c82cd3084524ea7d424',
+  'Filename': 'herson_9.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/strongly/bandy/quench.dot'},
+ {'Hash': '88f4b7bae6cc8ba70dd373d9d4027e3f5124f2d929856e559b19ee2fa58d02b2',
+  'Filename': 'herson_9.docx',
+  'Domain': 'ci04495.tmweb.ru',
+  'URL': 'hxxp://ci04495.tmweb.ru/reliance/barton/barge.dot'}]
+
