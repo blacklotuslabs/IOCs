@@ -1,0 +1,54 @@
+Host-Based Indicators 
+
+agenda.zip
+43b7d3b1da849b3817576f975c106488dcbfe06994b51c7d6a587248ff207a1c
+PDF file 
+af5dec1a8eed98bbab9c03dd76a980edc987347c43798d726b0ca538376f27be
+
+1.hta
+2ea7edb53aba054d142f4f588edd5231c4dd44e1872ef68c769248e2d1c1ae70
+
+UPDATER.hta 
+3782e50dbc16dd5291ddf47170fea378d7850b99df9a36f99f8ad829b7ed052e
+
+Security Update.lnk
+fb3a9a1de282ab1cd6c021bfe32255360b0d1667ffeeb36ddbf1c3ad229c106b
+
+Windows Updater.lnk
+3539bcaf17cc05dd402c9aad9c574eb1b303b03685080df0c4306d84e1c990ae
+
+MSFTEDIT.dll
+6fc1509bf1ba44f9acafd111a3d07796154c801ee6c3a93d3e1a9abd705c0e81
+
+run.bat 
+3b6d16d1e799e26e3aed55e45510dc66c97bfbf9cbe0b6e026ce0ebc1b555636
+
+regadd.bat 
+126297d04ce477c566eb99a9e772b1abef6446c6e94248feb7d1c99939dd3ad5
+
+ReverseRat 2.0
+3782e50dbc16dd5291ddf47170fea378d7850b99df9a36f99f8ad829b7ed052e
+
+Network-Based Indicators
+Compromised WordPress site, hosting the payloads
+hxxps://medizz[.]co/wp-content/base/phr/shareddocuments/Agenda/1.hta
+
+ReverseRat
+drigablockszip.sytes[.]net
+zimbrasoft.ddns[.]net
+hxxp://62.171.191[.]230
+
+NightFury
+hxxp://62.171.191[.]230:5310
+
+Host-Based artifacts
+Location of ReverseRat
+C:\Windows\Tasks\Updater.hta.
+
+Location of NightFury
+C:\Windows\Tasks\MSFTEDIT.dll
+C:\Windows\Programs\Notepad\MSFTEDIT.dll
+
+Location of host-based Enumeration output 
+C:\Users\<username>\AppData\Local\Temp\MVC\\wordpress.in
+C:\Users\<username>\AppData\Local\Temp\MVC\rar.in
