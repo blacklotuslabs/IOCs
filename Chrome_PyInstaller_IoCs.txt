@@ -1,0 +1,22 @@
+Samples:
+Chrome:
+Obfuscated 
+SHA-1: 07b6631c5b61e958989f50f4d4868d1acb5e36cc 
+SHA-256: e45185c213a621e61ecd99f2d023bb020b7ec21f9043bb10648f2969e5bee20d
+
+Clear text 
+SHA-1: d9d60539fe2368011002e246fb99504a06280f84
+SHA-256: 8bb92386b60e72ae3d5b17488d4a308721e340f3448b58bb26c79413272dcdf7
+
+PyInstaller:
+SHA-1:  2a0b4eb8581df29368726f437880ddb895d0c185 
+SHA-256: 4aa2218d89ec1ccc9184546fdc4f38893a6bab6a28c215feba6dd6e6d57ecadd 
+
+URL pattern: /track/bot.php
+
+Domains:
+cromdownload[.]com
+cromdownload[.]site
+watchvideo[.]site
+dgiusghusegya363[.]xyz
+websmartcleaner[.]site
