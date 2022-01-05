@@ -30,8 +30,8 @@ SHA-256: 1ce18f816875dae22ff0e038c9792d28ea649f119428a6b7e5af47e080f1dddd
 Dropped .dll
 SHA-1: 3ba1996e23bfd918244dc17f0bfc05d373fcdc2c
 SHA-256: 92656ad7e6d236a890167ef158364dec432e82cef7ec21f214191a535e405b07
-C2: victory-2020[.]atwebpages[.]com
-URL: http://victory-2020[.]atwebpages[.]com/index.php?user_id=45678&type=%d
+C2: victory-2020.atwebpages[.]com
+URL: http://victory-2020.atwebpages[.]com/index.php?user_id=45678&type=%d
 
 December Activity
 
