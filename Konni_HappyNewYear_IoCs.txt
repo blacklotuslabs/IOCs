@@ -1,0 +1,73 @@
+IOCs
+
+October Activity 
+
+IP: 152.89.247[.]26
+
+portalmid.pronto-login[.]com
+pronto-login[.]com
+passport.yandex.ru-settings.pronto-login[.]com
+mid.pronto-login[.]com
+e.mail.ru.settings.pronto-login[.]com
+russia.carnegieinsider[.]com
+economy.carnegieinsider[.]com
+portal.newint-mid.ru.carnegieinsider[.]com
+hpronto.settings.carnegieinsider[.]com
+leaks.carnegieinsider[.]com
+docs.undss.carnegieinsider[.]com
+e.mail.ru.settings.carnegieinsider[.]com
+
+November Activity
+
+Zip file: https://webattach.mail.yandex[.]net/message_part_real/oloo@mid.ru.zip?name=oloo@mid.ru.zip&sid=YWVzX3NpZDp7ImFlc0tleUlkIjoiMTc4IiwiaG1hY0tleUlkIjoiMTc4IiwiaXZCYXNlNjQiOiJ6L1dEWWoyM3p5V3JMQUo4cGh6K09RPT0iLCJzaWRCYXNlNjQiOiJ3ZC9oQ3FHUUdxcFVUemhmUXNKODdIUUZkTFZLdE1Ed1ovTWRMUzRkRUZQb2t0d0RKY21UNXhDa3p0dWVJY3dGYUhLWVR6K2c2KzZ2OEgyYzdSMWhTMXQ1b3NUaFF1cWg3djNHaXBsTXNpU0Iwd2ZXR2JsZW04cHVBMFNFeE1tSyIsImhtYWNCYXNlNjQiOiJWcU0xTFBnYkZub08xUnBoZnF0bk44K1VCWnRNRTdER005eWE2dTdUTytrPSJ9
+SHA-1: 99914ccc6bae56f25f2007091989dfd8dec568e1
+SHA-256: 001f329a99a84175ebadb671170482baeef0338807e93f399825381e58807f37
+
+Covid QR Installer File 
+SHA-1: 763b7358672ff8b8d7b3428faf4fedb3ad2caaad
+SHA-256: 1ce18f816875dae22ff0e038c9792d28ea649f119428a6b7e5af47e080f1dddd
+
+Dropped .dll
+SHA-1: 3ba1996e23bfd918244dc17f0bfc05d373fcdc2c
+SHA-256: 92656ad7e6d236a890167ef158364dec432e82cef7ec21f214191a535e405b07
+C2: victory-2020[.]atwebpages[.]com
+URL: http://victory-2020[.]atwebpages[.]com/index.php?user_id=45678&type=%d
+
+December Activity
+
+Malicious Emails 
+sryabkov@mid[.]ru
+SHA-1: 189fdac8fd88d61ba9cbd4f7d27561a6f60a9666
+Sha256:53b687202e69dd8d5e2e841036c96a12b93971c9ff99ca54c109c491e7ad8eba
+
+rusemb.indonesia@mid[.]ru  
+SHA-1: b433cc324a785e1d0291c961e2816e91a9549057
+Sha256:72185f9dbf66d0e5dc0e1873934c183bc120708085c0de8a0e2a748f10f77de8
+
+поздравление.zip 
+SHA-1: c31379e5dc312768f1ecba49f1bdc63bc2438fa2
+Sha256:587c382f63946f5f963dfb29762a4840174e229d9e058dc5d6b1180bd58e474c
+
+поздравление.scr 
+SHA-1: fb7d9bc8309f589e39e091ef5a7b08260596ffcd
+Sha256:451b9d4144555fcc791231db73ef3bfdb6ffddeb655e07a457108766f0e6ad39  
+
+.cab file
+SHA-1: 6883e1c2c1f3656cb756264fde77f88ebcde541c
+Sha256:4ca8ac99b2416d8fae67a8b18a58c8d267b7e2b72af1ee0369f2470a030af8c7  
+
+install.bat
+SHA-1:191604259def68250272919214aea109503200fe
+Sha256: b6845a436df2b3a79dd1b0e4a57a06c60f718eee0272a3eb81183ee4750037b9
+
+scrnsvc.dll
+SHA-1: c1d312762d598831d431b08e47075047582856aa
+Sha256: a3cd08afd7317d1619fba83c109f268b4b60429b4eb7c97fc274f92ff4fe17a2
+
+scrnsvc.ini
+SHA-1: f08c033d1a9f2f75a17cbcb71e3041263d2d3e61
+Sha256: 24f5fb91ca41e4a191a44629f064fa14c4063b7cda68ebc2b7afb7e68a9d3cdd
+
+C2 Nodes
+hxxp://i758769[.]atwebpages[.]com
+hxxp://h378576[.]atwebpages[.]com
