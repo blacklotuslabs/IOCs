@@ -69,5 +69,5 @@ SHA-1: f08c033d1a9f2f75a17cbcb71e3041263d2d3e61
 Sha256: 24f5fb91ca41e4a191a44629f064fa14c4063b7cda68ebc2b7afb7e68a9d3cdd
 
 C2 Nodes
-hxxp://i758769[.]atwebpages[.]com
-hxxp://h378576[.]atwebpages[.]com
+hxxp://i758769.atwebpages[.]com
+hxxp://h378576.atwebpages[.]com
