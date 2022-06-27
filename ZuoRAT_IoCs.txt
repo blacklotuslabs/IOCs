@@ -43,9 +43,6 @@ Router C2 VPSs
 202.178.11[.]78
 memthree[.]com
 
-DNS hijacking node 
-45.77.153[.]179
-
 Windows loaders
 bf34ad9b62472761393ac2de942dd95db8869d6996701cbefeb1f1b96ca18ac1  
 31ce9fd09c2a889fc9caf4309b0f6c8f45d9d7a7bf2d5fabdc988f478ef2d03e  
@@ -77,6 +74,9 @@ GoBeacon
 
 Cobalt Strike
 e29626e9cf755cc084adf9c08b0f6fd5750d86f5cfe580ca971c29c0110f590e
+
+Cobalt Strike C2
+110.42.185[.]232:8081/kGZQ
 
 Files uploaded to VirusTotal by Submitter a159fa17
 Python-compiled executables used for router exploitation:
