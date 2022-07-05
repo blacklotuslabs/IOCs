@@ -89,7 +89,7 @@ Windows Loader Agent with debug string containing “JCQ”
 Text file of Hong Kong-based IP addresses
 •	c61b4b5c9f2e3d57c7b6f7471c9b869aa7a7c8d6e3b50c49ab51b09105e32340
 Go agent that appears to be an IoT scanner 
-•	6c87397d545cc21046dbc1190048827634e23920c2
+•	6c87397d545cc21046dbc1190048827634e23920c264c512c38bec6014c3584b
 
 Network traffic associated with send_http_msg_php function:
 
