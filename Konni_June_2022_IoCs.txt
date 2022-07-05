@@ -1,0 +1,30 @@
+7z file
+b7be9a2011057ed3336bc94a8566f1779a2cea264cc0b551caaf197832285c48 
+scr file
+26213fd26d7702aef625a8c808926ea8d4293c5e5d958e537646009cd4449f87
+Cab file
+a87baca1850f549d75d90f13d63da8d61ac45f0f92f797767f56a97d038fdf33
+seed.bat  
+d7ddcb01688f3700538e59f06878d8fdf21418065e054eb118b943ba99acfdf0
+wncsvc.dll  
+976eb68d83021b2236f1755290a47549803a8326cff302e75227239d6fd13f5b
+wncsvc.ini  
+099617d8773e7aec48ed5f687027ecfccd4b24b0796c4c1927016c83d093a87c
+
+Command and Control Domains
+Primary domain 
+837593.c1[.]biz/index.php?uid=558975&type=1
+
+Secondary rotating domains 
+638795.c1[.]biz
+ty4775.c1[.]biz
+hy3423.c1[.]biz
+ju7765.c1[.]biz
+fv4534.c1[.]biz
+ef4553.c1[.]biz
+wg6794.c1[.]biz
+qz7895.c1[.]biz
+po9876.c1[.]biz
+mk7867.c1[.]biz
+vf4632.c1[.]biz
+xd6534.c1[.]biz
