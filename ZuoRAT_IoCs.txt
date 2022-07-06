@@ -20,7 +20,7 @@ C:\JD\code\AutomaticRightsProtect\HijackCom\x64\Release\Hijack.pdb
 
 Cobalt Strike
 D:\c-code\c++\shellcode\sxianchengcopy--kehu\x64\Release\sc2.pdb
-Com-Object Hijacking Program PDB Path (likely copied off GitHub)
+Com-Object Hijacking Program PDB Path
 C:\JD\code\AutomaticRightsProtect\HijackCom\x64\Release\Hijack.pdb
 
 Python-compiled exploitation scripts
@@ -53,11 +53,17 @@ daaa12fb1dd3b637dd0e73c225e4ca55b47f2eddfda2fc0345a3fd2232276da9
 bf34ad9b62472761393ac2de942dd95db8869d6996701cbefeb1f1b96ca18ac1 
 c2c6e542809952450c5ef0e47db354238e38c25ac8b0240f2b5e89616f899f0a  
 e5063f5d97defb7e9f544ef77024650201c43e37364068ddbc05f299b42a3d5e
+d8110c26e4034182c2f6689ea25d742cfe9fbd59caba449c15fb437e88e6db46
+7d45957ac07fca2e9558c06447102fde70ea17e54c4f6ed76303b08ca8bc830b
 
 URLs
 https://www.yuque.com/api/docs/share/6d9a855b-d656-4f7f-86d5-e346f8738aa3?doc_slug=vucyas&from=https%3A%2F%2Fwww.yuque.com%2Fdocs%2Fshare%2F6d9a855b-d656-4f7f-86d5-e346f8738aa3%3F%23%2520%25E3%2580%258A996icu%25E3%2580%258B
 
 https://www.yuque.com/api/docs/share/6d9a855b-d656-4f7f-86d5-e346f8738aa3?doc_slug=vucyas?from=https%3A%2F%2Fwww.yuque.com%2Fdocs%2Fshare%2F6d9a855b-d656-4f7f-86d5-e346f8738aa3%3F%23%2520%25E3%2580%258A996icu%25E3%2580%258B
+
+https://www.yuque[.]com/api/docs/share/6d9a855b-d656-4f7f-86d5-e346f8738aa3?doc_slug=vucyas&from=https://www.yuque.com/docs/share/6d9a855b-d656-4f7f-86d5-e346f8738aa3?%23%20%E3%80%8AFuckYou%E3%80%8B
+
+http://1.15.122[.]211/index2.html
 
 CBeacon 
 938bfd8179aa43ab80753d96c2ec0e6cfdc728715e03bbb3b315f95b94bf8bc3
@@ -70,7 +76,8 @@ https://service-1onwbsn4-1253943544[.]gz[.]apigw[.]tencentcs[.]com
 http://82.157.69[.]219:443/api
 
 GoBeacon
-2f7ab4f79c6c0c2095d1964c414eb28c6e9513d6cfd1c01455c0c373d081290d 2918ebcbf06f5816d68ababd97c249ba3cf79d4bfab199761d6cfa40c10c1d60
+2f7ab4f79c6c0c2095d1964c414eb28c6e9513d6cfd1c01455c0c373d081290d 
+2918ebcbf06f5816d68ababd97c249ba3cf79d4bfab199761d6cfa40c10c1d60
 
 Cobalt Strike
 e29626e9cf755cc084adf9c08b0f6fd5750d86f5cfe580ca971c29c0110f590e
