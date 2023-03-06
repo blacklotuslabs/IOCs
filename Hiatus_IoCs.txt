@@ -1,1 +1,72 @@
-Sorry for the brief pause, IoCs coming soon. 
+IP Addresses
+Heartbeat Server
+104.250.48[.]192
+
+Upload Server 
+46.8.113[.]227
+
+Stagging Server 
+66.42.108[.]185
+149.248.0[.]203
+
+Bash Script 
+File name: Update_mips32.sh.txt 
+Sha256
+6eb7357c0492960150286418e2a2f18513f50e925630bf2e6235422143f2e6c6 
+Sha1
+da1cd4b75787d8c3079ca4b7709bf788e7e2021e 
+
+Beaconing Agent 
+File name: qwert_8h_i386 
+Sha256
+6e21e42cfb93fc2ab77678b040dc673b88af31d78fafe91700c7241337fc5db2 
+Sha1
+525c04e97a0e2b38243f11debec9e100cc51fb15
+ 
+File name: qwert_8h_mips32 
+Sha256
+193481c4e2cbd14a29090f500f88455e1394140b9c5857937f86d2b854b54f60   
+Sha1
+5ec68cd73e3ca516b2518bc3307f5381bcc52b20   
+
+Packet Capture Binaries 
+File name: 01 
+Sha256
+4877bdc4fa80ad8e38600d1e0f3e9fdfbce2a6658ba050347281842345c5dd5e   
+Sha1
+cb01eb90c2c968a1d1e17136ba8609ff1eafb9eb   
+ 
+File name: 02 
+Sha256
+27b957fe2c5e9f3c98cfae5e90a2cd90a9adb8c9ac9de21118a751d9679bc4af   
+Sha1
+a80c9729984976eeb6b20a48a5dae8b10e4dc724   
+
+File name: 03 
+Sha256
+07cc70b287cbed13ef965c5a9815e1e2dcb7bfa4664beafdc7b57b5af3a8dd12   
+Sha1
+c55a8c027482ce281903f4b6b0b370a6efc7252c   
+
+File name: 04 
+Sha256
+36f6045fac9289df716ea9f3f657fd9c560660bfc70bebd0e07c1d42025f9a3a 
+Sha1
+167ea14b961877bec689cf8714b450e55a8033bd 
+
+Certificate Information
+X.509 Certificate associated with 46.8.113[.]227:
+Selected cipher
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 
+Sha256
+15960d2d7584ff90922e1c69f33c00508de4caa8b05a1341142b31f1661dd56f 
+Sha1
+2a770ad9d8e34b71323f026dcbe6b70b67e415db 
+ 
+X.509 Certificate associated with 104.250.48[.]192:
+Selected cipher
+TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256 
+Sha256
+382d64d5943001a1df569f8ddae9490509ed96ba8128de6e74acff6d879d7035 
+Sha1
+22ff6af7256397267d1919cbb78bfdcccb6e5e39 
