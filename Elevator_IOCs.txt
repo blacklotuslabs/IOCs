@@ -1,0 +1,21 @@
+Malicious files
+bpf.test
+sha256:4ad7b6dffc90bddd9beeb5653fad113ad905db81dce0298e376fed15b2246687
+sha1:fe8c0f471041eb4d9d71429fe0c3975a676f9c27
+
+elevator.elf
+sha256: 41e45ac439a35fbfffece86469cd29406076ccfcc0e35a6a920aebfc8fdc3622
+sha1:15c07b5e83e70bd4e424b77b5ff69bf18362cd34
+
+Command and control IP address:198.211.118[.]121
+
+Host-Based enumeration commands
+•	cat /sys/class/dmi/id/product_uuid
+•	cat /proc/keys
+•	cat /etc/hostnames
+•	lshw; lspci; lsub;
+•	ps -axfu 
+•	ip -o addr
+•	lsof -n, 
+•	ifconfig
+•	arp -an 
