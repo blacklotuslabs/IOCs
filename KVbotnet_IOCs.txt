@@ -1,5 +1,5 @@
 Indicators of Compromise
-IP Address	Active Timeframe	Characterization
+IP Address	        Active Timeframe	    Characterization
 207.246.100[.]151	Feb. 7 – May 6 2022	Proxy Router C2
 66.42.124[.]155	Feb. 7 – May 6 2022	Proxy Router C2
 104.156.246[.]150	Feb. 7 – May 6 2022	Proxy Router C2
@@ -43,6 +43,7 @@ Test_02
 19aa5a2235ee2518826a48363cb603060ee73ddccdf7d93bf197f97d7402aa37
  
 Main payloads 
+
 Sha256:c524e118b1e263fccac6e94365b3a0b148a53ea96df21c8377ccd8ec3d6a0874  
 Sha1:067f238d9d5c219d3c359dc398f5416f1a99c70b
  
