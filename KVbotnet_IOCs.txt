@@ -3,7 +3,7 @@ IP Address	        Active Timeframe	           Characterization
 207.246.100[.]151       Feb. 7 – May 6 2022	           Proxy Router C2
 66.42.124[.]155	        Feb. 7 – May 6 2022	           Proxy Router C2
 104.156.246[.]150	Feb. 7 – May 6 2022	           Proxy Router C2
-192.169.6[.]241	        May 2 – May 3 2022	     Proxy Router C2
+192.169.6[.]241	        May 2 – May 3 2022	         Proxy Router C2
 149.28.119[.]73	        May 8 – Sept. 25 2022	     Proxy Router C2
 45.32.88[.]250	        May – Nov. 2 2022	Proxy Router C2
 144.202.43[.]124	Sept. 22 – Nov. 2 2022	Proxy Router C2
