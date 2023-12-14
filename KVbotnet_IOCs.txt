@@ -13,7 +13,7 @@ IP Address	        Active Timeframe	           Characterization
 140.82.20[.]246	        Nov. 28, 2022 – Nov. 13 2023	    Proxy Router C2
 108.61.132[.]157	Nov. 15 – 20, 2023	           Proxy Router C2
 144.202.49[.]189	Nov. 17 – Dec. 6 2023	           Proxy Router C2
-174.138.56[.]21	        Nov. 17 – Dec. 4 2023	          Proxy Router C2
+174.138.56[.]21	        Nov. 17 – Dec. 4 2023	           Proxy Router C2
 159.203.113[.]25	Nov. 17 – Dec. 6 2023	           Proxy Router C2
 216.128.179[.]235	May – Dec. 6 2022	           Callback Server
 216.128.180[.]232	May 19 – Sept. 25 2022	           1st stage Payload Server
