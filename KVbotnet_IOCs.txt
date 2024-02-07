@@ -1,4 +1,16 @@
 Indicators of Compromise
+------------------------
+(Feb 7, 2024 release)
+
+IP address	      Timeframe	                Characterization
+152.32.138[.]247	Dec 5, 2023 - Jan 3, 2024	Callback Server
+45.159.209[.]228	Dec 15, 2023	            Payload Server
+45.63.60[.]39	    Jan 12, 2024	            Router Proxy C2
+45.32.174[.]131	  Jan 12, 2024	            Router Proxy C2
+------------------------
+
+(Previous IOCs Dec 13, 2023)
+
 IP Address	        Active Timeframe	           Characterization
 207.246.100[.]151       Feb. 7 – May 6 2022	           Proxy Router C2
 66.42.124[.]155	        Feb. 7 – May 6 2022	           Proxy Router C2
