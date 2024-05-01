@@ -49,11 +49,9 @@ Active Since September 2023:
 hxxps://107.189.28[.]251:443/rules 
 
 hxxps://kkthreas[.]com/upload
-hxxps://kkthreas[.]com -> used to send the router host-based enumeration information
-    domain was registered Dec 22, 2023, through GoDaddy
+hxxps://kkthreas[.]com 
     domain resolves to 198.98.56[.]93, This IP address has an X.509 certificate
     sha256:E48c250c47dd071dcee984a8e9f27b170004ff81c3f0da6a50364fdecf800fd3
-    This certificate was first observed on 2023-07-27T20:59:20 
 hxxps://pp.kkthreas[.]com
 
 On Disk Files:
@@ -65,7 +63,7 @@ On Disk Files:
 /tmp/thconfigjs
 /tmp/.Pg88s51gQG4tFyImFsT9qy6ZM5TeTF8.so
 
-Prior malware name:
+referenced malware name:
 /tmp/.putin
 
 tcp dst port 21 or 
