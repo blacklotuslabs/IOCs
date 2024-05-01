@@ -1,1 +1,253 @@
 
+
+Indicators of Compromise:
+hxxp://209.141.49[.]178/s
+73cf20675639c18c04381b5efd7d628736d149734280988f55358e301c1d9bb8
+ 
+Payload Server and corresponding file hashes: 
+hxxp://209.141.49[.]178/dajfdsfadsfa/arm
+10a4edbbb852a1b01fc6fbf0aa1407bc8589432bddb2001ae62702f18d919e89
+hxxp://209.141.49[.]178/dajfdsfadsfa/i386
+94812d391160e4fce821701b944cfd8f5fd9454b3cbb8e8974d1dc259310e500
+hxxp://209.141.49[.]178/dajfdsfadsfa/i386_i686
+4aa23fbdc27d317c6e54481b6d884b962adf6e691a4731c859ddaf9af09822c6 
+hxxp://209.141.49[.]178/dajfdsfadsfa/i386_x64
+1168e97ccf61600536e93e9c371ee7671bae4198d4bf566550328b241ec52e89
+hxxp://209.141.49[.]178/dajfdsfadsfa/misp32
+70693211cd0b14a7463b39b2fa801ce1fdefc85c7f3e003772d1b4deeb78efde
+hxxp://209.141.49[.]178/dajfdsfadsfa/misp64
+2f0911fb892d448910c36a37c9fbdec8c73ccfecc274854b1fa053fb1cc2369b
+
+hxxp://209.141.49[.]178/r/s.sh
+07df37d8168e911b189bbe0912b4842fa1fe48d5264e99738ad3247f9c818478
+44b769be0c2a807082a9bfd2f33fdc744552c5c7ca88a812ef4bd0393a50f132 
+hxxp://209.141.49[.]178/r/arm_sniff
+6295d5cb21c441066d2da81a76440bcac9bd5a7830fc9faea9668bd0b2015046
+hxxp://209.141.49[.]178/r/i386_i686_sniff
+eb7a7ab952080f66c82fe8350da131ce0d7766f203bd4d97b0798b4f59283a27 
+hxxp://209.141.49[.]178/r/i386_sniff
+99d5cf32f8198e99c530be4f5e05487e280bacdb8ef26aaf38dc20e301aad75f 
+hxxp://209.141.49[.]178/r/i386_x64_sniff
+3d9ee05c0841ad65547c0cc8516d092cff48dad5e7bbf97c99ddd44ee94a24bc  
+hxxp://209.141.49[.]178/r/mips32_sniff
+2ed174523bd80a93b7d09940d375f9c0d71e1ce8ecffb2320e02a78f4b601408
+hxxp://209.141.49[.]178/r/mips64_sniff
+23c2e7ff2602e5f76b3f2c354761ef39966facb3b12ed05551816f482d4d5608
+
+Primary Command and Control server with URLs:
+Observed on 2023 December associated with /dajfdsfadsfa directory
+hxxps://205.185.122[.]121/rules
+hxxps://205.185.122[.]121/upload
+hxxps://205.185.122[.]121/rulesinit
+
+Observed on 2024 January associated with /r directory:
+hxxps://198.98.56[.]93:443/rules
+hxxps://198.98.56[.]93:443/rulesinit
+hxxps://198.98.56[.]93:443/upload
+
+Active Since September 2023:
+hxxps://107.189.28[.]251:443/rules 
+
+hxxps://kkthreas[.]com/upload
+hxxps://kkthreas[.]com -> used to send the router host-based enumeration information
+    domain was registered Dec 22, 2023, through GoDaddy
+    domain resolves to 198.98.56[.]93, This IP address has an X.509 certificate
+    sha256:E48c250c47dd071dcee984a8e9f27b170004ff81c3f0da6a50364fdecf800fd3
+    This certificate was first observed on 2023-07-27T20:59:20 
+hxxps://pp.kkthreas[.]com
+
+On Disk Files:
+/tmp/.timezone
+/tmp/co.tmp.tar.gz
+/tmp/config js
+/tmp/log.txt
+/tmp/n2nconfigjs
+/tmp/thconfigjs
+/tmp/.Pg88s51gQG4tFyImFsT9qy6ZM5TeTF8.so
+
+Prior malware name:
+/tmp/.putin
+
+tcp dst port 21 or 
+tcp dst port 22 or 
+tcp dst port 23 or 
+tcp dst port 25 or 
+tcp dst port 53 or 
+udp dst port 53 or 
+tcp dst port 69 or 
+tcp dst port 80 or 
+tcp dst port 81 or 
+tcp dst port 82 or 
+tcp dst port 83 or 
+tcp dst port 88 or 
+tcp dst port 110 or 
+tcp dst port 135 or 
+tcp dst port 139 or 
+tcp dst port 143 or 
+tcp dst port 164 or 
+tcp dst port 389 or 
+tcp dst port 443 or 
+tcp dst port 444 or 
+tcp dst port 445 or 
+tcp dst port 554 or 
+tcp dst port 888 or 
+tcp dst port 992 or 
+tcp dst port 993 or 
+tcp dst port 995 or 
+tcp dst port 1024 or 
+tcp dst port 1080 or 
+tcp dst port 1194 or 
+tcp dst port 1433 or 
+tcp dst port 1443 or 
+tcp dst port 1521 or 
+tcp dst port 1701 or 
+tcp dst port 1723 or 
+tcp dst port 1935 or 
+tcp dst port 2000 or 
+tcp dst port 2103 or 
+tcp dst port 2222 or 
+tcp dst port 2323 or 
+tcp dst port 2375 or 
+tcp dst port 2600 or 
+tcp dst port 2601 or 
+tcp dst port 3128 or 
+tcp dst port 3306 or 
+tcp dst port 3333 or 
+tcp dst port 3389 or 
+tcp dst port 3443 or 
+tcp dst port 4343 or 
+tcp dst port 4430 or 
+tcp dst port 4433 or 
+
+Keyword searched for the URL paths:
+username=
+user_name=
+username
+account=
+passwd
+password
+<passwd>
+<pass_word>
+<userName>
+<password>
+passwd=
+password=
+pass_word=
+Authorization:
+access_key=
+access_token=
+admin_pass=
+admin_user=
+algolia_admin_key=
+algolia_api_key=
+alias_pass=
+alicloud_access_key=
+amazon_secret_access_key=
+amazonaws=
+ansible_vault_password=
+aos_key=
+api_key=
+api_key_secret=
+api_key_sid=
+api_secret=
+api.googlemaps AIza=
+apidocs=
+apikey=
+apiSecret=
+app_debug=
+app_id=
+app_key=
+app_log_level=
+app_secret=
+appkey=
+appkeysecret=
+application_key=
+appsecret=
+appspot=
+auth_token=
+authorizationToken=
+authsecret=
+aws_access=
+aws_access_key_id=
+aws_bucket=
+aws_key=
+aws_secret=
+aws_secret_key=
+aws_token=
+AWSSecretKey=
+b2_app_key=
+bashrc password=
+bintray_apikey=
+bintray_gpg_password=
+bintray_key=
+bintraykey=
+bluemix_api_key=
+bluemix_pass=
+browserstack_access_key=
+bucket_password=
+bucketeer_aws_access_key_id=
+bucketeer_aws_secret_access_key=
+built_branch_deploy_key=
+bx_password=
+cache_driver=
+cache_s3_secret_key=
+cattle_access_key=
+cattle_secret_key=
+certificate_password=
+ci_deploy_password=
+client_secret=
+client_zpk_secret_key=
+clojars_password=
+cloud_api_key=
+cloud_watch_aws_access_key=
+cloudant_password=
+cloudflare_api_key=
+cloudflare_auth_key=
+cloudinary_api_secret=
+cloudinary_name=
+codecov_token=
+config=
+conn.login=
+connectionstring=
+consumer_key=
+consumer_secret=
+credentials=
+cypress_record_key=
+database_password=
+database_schema_test=
+datadog_api_key=
+datadog_app_key=
+db_password=
+db_server=
+db_username=
+dbpasswd=
+dbpassword=
+dbuser=
+deploy_password=
+digitalocean_ssh_key_body=
+digitalocean_ssh_key_ids=
+docker_hub_password=
+docker_key=
+docker_pass=
+docker_passwd=
+docker_password=
+dockerhub_password=
+dockerhubpassword=
+dot-files=
+dotfiles=
+droplet_travis_password=
+dynamoaccesskeyid=
+dynamosecretaccesskey=
+elastica_host=
+elastica_port=
+elasticsearch_password=
+encryption_key=
+encryption_password=
+env.heroku_api_key=
+env.sonatype_password=
+eureka.awssecretkey=
+
+
+
+
+
