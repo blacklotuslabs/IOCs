@@ -44,10 +44,6 @@ hxxps://cu6s[.]com
 axon-stall.riddlecamera[.]net
 lighten.medyamol[.]com.
 
-Censys Syntax
-Associated with Sagemcom
-services.banner_hashes="sha256:d6778d5ad096516b881bbf2aca2d790b5217dfb83bb256e3f9d710056c9b512a" 
-
 Associated with ActionTec
 services.banner_hashes=”sha256:d0643c777b0b24ca747f7dc79d3bdfbc04d3095ded760e6a54fa62bfa6945df3”	
 
