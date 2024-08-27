@@ -1,1 +1,30 @@
 
+Yara Rules 
+rule VersaMem_JAR_Webshell { 
+    strings: 
+        $s1 = "org.apache.catalina.startup.Bootstrap" 
+        $s2 = "com.versa.vnms.ui.TestMain" 
+        $s3 = "/tmp/.java_pid" 
+        $s4 = "CoreClassFileTransformer" 
+        $s5 = "WriteTestTransformer" 
+        $s6 = "CapturePassTransformer" 
+        $s7 = "setUserPassword" 
+        $s8 = "captureLoginPasswordCode" 
+        $s9 = "com/versa/vnms/ui/services/impl/VersaAuthenticationServiceImpl" 
+        $s10 = "org/apache/catalina/core/ApplicationFilterChain" 
+        $s11 = "/tmp/.temp.data" 
+        $s12 = "getInsertCode" 
+        $s13 = "VersaMem" 
+        $s14 = "Versa-Auth" 
+  
+    condition: 
+        filesize < 5MB and 3 of them 
+} 
+ 
+IOCs 
+VersaTest.png (VersaMem web shell): 
+4bcedac20a75e8f8833f4725adfc87577c32990c3783bf6c743f14599a176c37 
+  
+Filepaths: 
+/tmp/.temp.data 
+
