@@ -1,1 +1,36 @@
+File hashes:
+Full copy of the agent
+sha1:7edc911b31b4f5dc401725c9b52e876a9fd00f3e
+sha256:5e3c128749f7ae4616a4620e0b53c0e5381724a790bba8314acb502ce7334df2 
+
+Truncated version of the file above, this version only contains the first 50Kbs
+sha256:957c0c135b50d1c209840ec7ead60912a5ccefd2873bf5722cb85354cea4eb37 
+
+Previously identified cd00r variant reported in barracuda campaign UNC4841
+sha256:3f26a13f023ad0dcd7f2aa4e7771bba74910ee227b4b36ff72edc5f07336f115
+
+File Name:
+JunoscriptService
+
+Process names:
+‘[nfsiod 0]’ - this corresponds to the cd00r agent
+‘[nfsiod 1]’ - this corresponds to the remote shell process
+
+Certificate
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuJDBIgz2Gb70ExKb7fww
+W3WHqCKcWCXT8vt7leycqLTN00X9K / aCyH8jEkXXcbV / +rRsLrgpBsSUIl7MJjtZ
+gTYGyYC9Lpi2bNRO + Enzy4R3rkNeuUmPFT95gHW6UPTaKoyfDuuV7FFTogzoGr9l
+NIqLtsP0uyQJBJk8DSVBfX / 3SQ7d / lGfTbAe / fp9tuiXXY2crW7LTNLeNGfQ4UCD
+WeE48wwYMYg591UbU4hB59dwpEG + NyHohPF + HuQBF3o9b7wCrjxNRAMYO3G / U0l8
+H2CryABe + PP7qS4Y / 0 / F7HHq5qLhMOELWiVNR0ymDn7 + dBrND1erTm5rS7Afav8k
+pQIDAQAB
+-----END PUBLIC KEY-----
+
+Command and Control IP address
+198.46.158[.]172
+	First: January 3, 2024
+	Last: April 21, 2024
+X.509 Sha256 Fingerprint
+sha256:C7cf51499973908cbc4c746f689b6ed245b26b1a9eae62fe9329f3a1036e82f4
 
