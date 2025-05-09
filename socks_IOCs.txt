@@ -1,1 +1,11 @@
+C2s used by the 5socks/anyproxy networks:
 
+176.53.20[.]42
+176.53.20[.]43
+176.53.20[.]44
+176.53.20[.]45
+176.53.20[.]46
+
+additional infrastructure:
+79.99.1[.]43 - Sharesan ssh key with 2 of the c2s
+128.199.39[.]218 - suspected actor infra based on bot connections
