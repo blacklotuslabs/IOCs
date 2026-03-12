@@ -1,15 +1,21 @@
 IOCs  
-Active as of 2/12/2026 and to the present: 
+Active as of 2/12/2026 and to the present:
+
 85.158.111[.]100
 89.46.38[.]74
 154.7.253[.]12
-212.104.141[.]88 91.193.19[.]226 79.141.161[.]152
+212.104.141[.]88 
+91.193.19[.]226 
+79.141.161[.]152
+
  Previous C2s 
 91.193.19[.]51
 79.141.163[.]155
 23.227.203[.]221
  
- Kad Controlled Network Nodes as of 3/5  45.135.180[.]38 45.135.180[.]177
+ Kad Controlled Network Nodes as of 3/5
+45.135.180[.]38 
+45.135.180[.]177
  
 File hashes
 0b3dbb951de7a216dd5032d783ba7d0a5ecda2bf872643c3a4ddd1667fb38ffe (mips) ebf9de6b67e94b2bd2b0dcda1941e04fef1a1dad830404813e468ab8744b7ed8 (arm)
