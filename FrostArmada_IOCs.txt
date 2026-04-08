@@ -6,4 +6,3 @@ IP address	    Characterization	        First Seen	     Last Seen
 79.141.173[.]211	Attack in the Middle VPS	July 19,2025	   March 31, 2026
 185.117.89[.]32	  Attack in the Middle VPS	Sept 9,2025	     Sept 9, 2025
 185.237.166[.]55	Attack in the Middle VPS	Dec 30,2025	     Dec 30, 2025
-
