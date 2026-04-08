@@ -1,9 +1,9 @@
 IP address	    Characterization	        First Seen	     Last Seen
 
-64.120.31.96	  Attack in the Middle VPS	May 19,2025	     March 31, 2026
-79.141.160.78	  Attack in the Middle VPS	July 19,2025	   March 31, 2026
-23.106.120.119	Attack in the Middle VPS	July 19,2025	   March 31, 2026
-79.141.173.211	Attack in the Middle VPS	July 19,2025	   March 31, 2026
-185.117.89.32	  Attack in the Middle VPS	Sept 9,2025	     Sept 9, 2025
-185.237.166.55	Attack in the Middle VPS	Dec 30,2025	     Dec 30, 2025
+64.120.31[.]96	  Attack in the Middle VPS	May 19,2025	     March 31, 2026
+79.141.160[.]78	  Attack in the Middle VPS	July 19,2025	   March 31, 2026
+23.106.120[.]119	Attack in the Middle VPS	July 19,2025	   March 31, 2026
+79.141.173[.]211	Attack in the Middle VPS	July 19,2025	   March 31, 2026
+185.117.89[.]32	  Attack in the Middle VPS	Sept 9,2025	     Sept 9, 2025
+185.237.166[.]55	Attack in the Middle VPS	Dec 30,2025	     Dec 30, 2025
 
