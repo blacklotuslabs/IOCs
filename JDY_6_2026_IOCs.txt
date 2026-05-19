@@ -1,1 +1,243 @@
+Indicators of Compromise	 
+Linux Sample 
+D6a4fad5448838dbc8cc6b33f1dbfbdc7a2fad36de58ff6a66dce96f729f7011  
 
+Windows Sample  
+8fc0b205876923d35df436e666ec1506839ef3861422037490bae4daa63c1165 
+253cc9dbabeb0054f3d353cfff24f2aeb9cecd3e031333127d33cc4edacf2a56 
+
+ In March 2025, the address in the sample started resolving to the IP address: 139.84.227[.]139. This IP address hosted two other FQDNs:
+
+    ntp1.dnsserver.camdvr[.]org  
+
+    apis.dnsserver.camdvr[.]org 
+
+ https://pastebin[.]com/2haz67CL https://forum-butian-net[.]translate[.]goog/share/641?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) 
+
+Sub-cluster A:
+27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677 
+
+ 
+130.94.0.79
+First Seen: 2026-05-08
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+45.80.208.125
+First Seen: 2026-05-09
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+96.126.191.240
+First Seen: 2026-04-23
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+39.98.121.69
+First Seen: 2026-04-14
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+38.244.134.192
+First Seen: 2026-04-22
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+42.240.169.135
+First Seen: 2026-04-27
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+66.245.217.23
+First Seen: 2026-04-27
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+120.48.51.75
+First Seen: 2026-04-10
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+116.169.244.208
+First Seen: 2026-02-06
+Last Seen: 2026-02-06
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+128.14.229.79:443
+First Seen: 2025-10-15
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+23.27.98.175
+First Seen: 2024-07-10
+Last Seen: 2025-08-02
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+195.86.120.2
+First Seen: 2024-07-10
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+45.80.208.85
+First Seen: 2024-07-10
+Last Seen: 2026-01-12
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+194.135.25.132:443
+First Seen: 2025-05-14
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+23.27.201.160
+First Seen: 2025-12-01
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+198.20.155.54:443
+First Seen: 2025-11-25
+Last Seen: 2026-02-05
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+49.4.79.112:8443
+First Seen: 2026-01-19
+Last Seen: 2026-01-23
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+38.60.208.123:443
+First Seen: 2025-04-03
+Last Seen: 2025-05-12
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+38.60.255.42:8080
+First Seen: 2025-03-09
+Last Seen: 2025-03-17
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+65.20.66.51:8443
+First Seen: 2025-05-16
+Last Seen: 2025-05-15
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+101.36.105.222:443
+First Seen: 2024-10-09
+Last Seen: 2024-10-09
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+139.84.227.139:80
+First Seen: 2025-03-19
+Last Seen: 2026-05-08
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+152.32.156.187:443
+First Seen: 2024-10-28
+Last Seen: 2025-01-21
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+154.90.62.14
+First Seen: 2024-08-17
+Last Seen: 2024-09-29
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+194.135.25.186:443
+First Seen: 2024-11-25
+Last Seen: 2024-12-24
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+195.58.52.90:443
+First Seen: 2025-04-13
+Last Seen: 2025-05-11
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+207.90.205.55
+First Seen: 2024-10-13
+Last Seen: 2024-11-14
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+
+Secondary cluster group:
+
+130.94.0.79
+First Seen: 2026-05-08
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+45.80.208.125
+First Seen: 2026-05-09
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+96.126.191.240
+First Seen: 2026-04-23
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+39.98.121.69
+First Seen: 2026-04-14
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+38.244.134.192
+First Seen: 2026-04-22
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+42.240.169.135
+First Seen: 2026-04-27
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+66.245.217.23
+First Seen: 2026-04-27
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+120.48.51.75
+First Seen: 2026-04-10
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+116.169.244.208
+First Seen: 2026-02-06
+Last Seen: 2026-02-06
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+128.14.229.79:443
+First Seen: 2025-10-15
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+23.27.98.175
+First Seen: 2024-07-10
+Last Seen: 2025-08-02
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+195.86.120.2
+First Seen: 2024-07-10
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+45.80.208.85
+First Seen: 2024-07-10
+Last Seen: 2026-01-12
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+194.135.25.132:443
+First Seen: 2025-05-14
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+23.27.201.160
+First Seen: 2025-12-01
+Last Seen: 2026-05-10
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+198.20.155.54:443
+First Seen: 2025-11-25
+Last Seen: 2026-02-05
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+49.4.79.112:8443
+First Seen: 2026-01-19
+Last Seen: 2026-01-23
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+38.60.208.123:443
+First Seen: 2025-04-03
+Last Seen: 2025-05-12
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+38.60.255.42:8080
+First Seen: 2025-03-09
+Last Seen: 2025-03-17
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+65.20.66.51:8443
+First Seen: 2025-05-16
+Last Seen: 2025-05-15
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+101.36.105.222:443
+First Seen: 2024-10-09
+Last Seen: 2024-10-09
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+139.84.227.139:80
+First Seen: 2025-03-19
+Last Seen: 2026-05-08
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+152.32.156.187:443
+First Seen: 2024-10-28
+Last Seen: 2025-01-21
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+154.90.62.14
+First Seen: 2024-08-17
+Last Seen: 2024-09-29
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+194.135.25.186:443
+First Seen: 2024-11-25
+Last Seen: 2024-12-24
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+195.58.52.90:443
+First Seen: 2025-04-13
+Last Seen: 2025-05-11
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+207.90.205.55
+First Seen: 2024-10-13
+Last Seen: 2024-11-14
+X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
+
+
+
+ 
