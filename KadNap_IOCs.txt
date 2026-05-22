@@ -8,6 +8,9 @@ Active as of 2/12/2026 and to the present:
 91.193.19[.]226 
 79.141.161[.]152
 
+ Hard-coded Fallback C2 IP:PORT
+193.46.217.14:13791
+
  Previous C2s 
 91.193.19[.]51
 79.141.163[.]155
