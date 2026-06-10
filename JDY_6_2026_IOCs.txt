@@ -1,243 +1,29 @@
-Indicators of Compromise	 
-Linux Sample 
-D6a4fad5448838dbc8cc6b33f1dbfbdc7a2fad36de58ff6a66dce96f729f7011  
+Indicators of Compromise (IOCs)
 
-Windows Sample  
-8fc0b205876923d35df436e666ec1506839ef3861422037490bae4daa63c1165 
-253cc9dbabeb0054f3d353cfff24f2aeb9cecd3e031333127d33cc4edacf2a56 
+23.27.120[.]240 
+First Seen: 2025-04-11; Last Seen: 2026-03-21; Description: C2
+109.104.154[.]116 
+First Seen: 2025-04-11; Last Seen: 2026-03-21; Description: C2
+216.173.65[.]250 
+First Seen: 2026-03-31; Last Seen: Present; Description: C2
+194.14.217[.]88 
+First Seen: 2026-03-31; Last Seen: Present; Description: C2
+149.248.3[.]38  
+First Seen: 2025-06-06; Last Seen: Present; Description: Payload Server
 
- In March 2025, the address in the sample started resolving to the IP address: 139.84.227[.]139. This IP address hosted two other FQDNs:
-
-    ntp1.dnsserver.camdvr[.]org  
-
-    apis.dnsserver.camdvr[.]org 
-
- https://pastebin[.]com/2haz67CL https://forum-butian-net[.]translate[.]goog/share/641?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc) 
-
-Sub-cluster A:
-27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677 
-
- 
-130.94.0.79
-First Seen: 2026-05-08
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-45.80.208.125
-First Seen: 2026-05-09
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-96.126.191.240
-First Seen: 2026-04-23
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-39.98.121.69
-First Seen: 2026-04-14
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-38.244.134.192
-First Seen: 2026-04-22
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-42.240.169.135
-First Seen: 2026-04-27
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-66.245.217.23
-First Seen: 2026-04-27
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-120.48.51.75
-First Seen: 2026-04-10
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-116.169.244.208
-First Seen: 2026-02-06
-Last Seen: 2026-02-06
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-128.14.229.79:443
-First Seen: 2025-10-15
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-23.27.98.175
-First Seen: 2024-07-10
-Last Seen: 2025-08-02
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-195.86.120.2
-First Seen: 2024-07-10
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-45.80.208.85
-First Seen: 2024-07-10
-Last Seen: 2026-01-12
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-194.135.25.132:443
-First Seen: 2025-05-14
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-23.27.201.160
-First Seen: 2025-12-01
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-198.20.155.54:443
-First Seen: 2025-11-25
-Last Seen: 2026-02-05
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-49.4.79.112:8443
-First Seen: 2026-01-19
-Last Seen: 2026-01-23
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-38.60.208.123:443
-First Seen: 2025-04-03
-Last Seen: 2025-05-12
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-38.60.255.42:8080
-First Seen: 2025-03-09
-Last Seen: 2025-03-17
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-65.20.66.51:8443
-First Seen: 2025-05-16
-Last Seen: 2025-05-15
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-101.36.105.222:443
-First Seen: 2024-10-09
-Last Seen: 2024-10-09
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-139.84.227.139:80
-First Seen: 2025-03-19
-Last Seen: 2026-05-08
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-152.32.156.187:443
-First Seen: 2024-10-28
-Last Seen: 2025-01-21
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-154.90.62.14
-First Seen: 2024-08-17
-Last Seen: 2024-09-29
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-194.135.25.186:443
-First Seen: 2024-11-25
-Last Seen: 2024-12-24
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-195.58.52.90:443
-First Seen: 2025-04-13
-Last Seen: 2025-05-11
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-207.90.205.55
-First Seen: 2024-10-13
-Last Seen: 2024-11-14
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-
-Secondary cluster group:
-
-130.94.0.79
-First Seen: 2026-05-08
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-45.80.208.125
-First Seen: 2026-05-09
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-96.126.191.240
-First Seen: 2026-04-23
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-39.98.121.69
-First Seen: 2026-04-14
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-38.244.134.192
-First Seen: 2026-04-22
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-42.240.169.135
-First Seen: 2026-04-27
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-66.245.217.23
-First Seen: 2026-04-27
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-120.48.51.75
-First Seen: 2026-04-10
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-116.169.244.208
-First Seen: 2026-02-06
-Last Seen: 2026-02-06
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-128.14.229.79:443
-First Seen: 2025-10-15
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-23.27.98.175
-First Seen: 2024-07-10
-Last Seen: 2025-08-02
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-195.86.120.2
-First Seen: 2024-07-10
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-45.80.208.85
-First Seen: 2024-07-10
-Last Seen: 2026-01-12
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-194.135.25.132:443
-First Seen: 2025-05-14
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-23.27.201.160
-First Seen: 2025-12-01
-Last Seen: 2026-05-10
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-198.20.155.54:443
-First Seen: 2025-11-25
-Last Seen: 2026-02-05
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-49.4.79.112:8443
-First Seen: 2026-01-19
-Last Seen: 2026-01-23
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-38.60.208.123:443
-First Seen: 2025-04-03
-Last Seen: 2025-05-12
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-38.60.255.42:8080
-First Seen: 2025-03-09
-Last Seen: 2025-03-17
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-65.20.66.51:8443
-First Seen: 2025-05-16
-Last Seen: 2025-05-15
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-101.36.105.222:443
-First Seen: 2024-10-09
-Last Seen: 2024-10-09
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-139.84.227.139:80
-First Seen: 2025-03-19
-Last Seen: 2026-05-08
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-152.32.156.187:443
-First Seen: 2024-10-28
-Last Seen: 2025-01-21
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-154.90.62.14
-First Seen: 2024-08-17
-Last Seen: 2024-09-29
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-194.135.25.186:443
-First Seen: 2024-11-25
-Last Seen: 2024-12-24
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-195.58.52.90:443
-First Seen: 2025-04-13
-Last Seen: 2025-05-11
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-207.90.205.55
-First Seen: 2024-10-13
-Last Seen: 2024-11-14
-X509 SHA256 Fingerprint: 27df475626aafce2ea1548a9f35efb9ad951298c8b11a6adb3ccdfcd5170c677
-
-
-
- 
+2b640582bbbffe58c4efb8ab5a0412e95130e70a587fd1e194fbcd4b33d432cf 
+First Seen: 2023-11-14; Last Seen: Present; Description: TLS Fingerprint
+03c4667f016f1e8441177639d87f77a59f32d2c7e0041616376967338667bd3b 
+Description: JDY Dropper
+1e0da906811b570c4134ade310c3a94631d4b308d27b616497266b49aae2ad0a  
+Description: JDY Dropper
+d62055910cd579ff1fb57bd1926c5b2e80e1677f0316737b2f733f86b01615dc 
+Description: JDY Dropper
+40ad28b87b5ed395fe8ff303555cc28974682ed6cc5a71ede76c4b17648cb8ed 
+Description: JDY Payload
+28a23ab78739de674f94d9acadfe0709862c2b2d947e9051b200a24d3f9f45c4  
+Description: JDY Payload
+d1414803a83b1ba260e3e1be742379eccbb806f987ec1e7c0bc5399e4971a58f  
+Description: JDY Payload
+96ecc107aa645e36b5f939ebfcf9e61fc9ebc27616680fbd0fdeb41c7950d79a 
+Description: Platypus Termite client
