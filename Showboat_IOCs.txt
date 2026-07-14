@@ -1,1 +1,31 @@
+Linux Sample
+D6a4fad5448838dbc8cc6b33f1dbfbdc7a2fad36de58ff6a66dce96f729f7011 
+
+Windows Sample 
+8fc0b205876923d35df436e666ec1506839ef3861422037490bae4daa63c1165
+253cc9dbabeb0054f3d353cfff24f2aeb9cecd3e031333127d33cc4edacf2a56
+
+IP addresses that hosted malicious files, such as ukpkmkk.bin
+114.116.239[.]178, 2024-11-1 until 2025-02-19, 494676b9255d8c65499c1d5148e34440d27de2e26ad7dd7162dd8e683dba2790
+103.10.145[.]129, 2023-04-04 until 2023-04-04, 494676b9255d8c65499c1d5148e34440d27de2e26ad7dd7162dd8e683dba2790
+114.116.239[.]178 has been seen hosting two more TLS certificates
+F5359f23eafe7c0f9a445d654dd94c31e982f02c48ac59d1cacf6d6f9f594425
+
+IP address             Domain        First seen   Last seen 
+45.76.157[.]243:443                  2024-06-11   2024-10-18
+114.116.239[.]178:808                2024-08-15   2025-03-19
+139.84.135[.]190:443                 2024-06-08   2024-07-10
+139.180.223[.]193:443                2024-09-05   2025-02-10
+152.32.159[.]11:443 singtelcom[.]site 2024-02-05   2025-03-05
+103.10.145[.]129:443                 2023-04-04   2023-07-17
+23.27.201.160:443                    2025-04-24   2025-04-27
+38.246.73[.]120:443                  2025-03-10   2025-05-28
+
+
+
+
+
+
+
+
 
