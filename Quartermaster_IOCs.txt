@@ -1,1 +1,21 @@
+Quartermaster infrastructure artifact matrix
 
+
+Indicator	                     Function                                           Description
+qtproxy.xyz	                   Fast Labyrinth Admin Plane	                  Administrative domain for proxy orchestration and QTRouter device authentication.
+www.qtproxy.xyz.               Fast Labyrinth                               Admin Plane	Mapped to IP 1.32.216[.]171 and actual login page
+qt-team.com	                   Legacy Quartermaster and Qscan Domain	      Originally used for jump box and Qscan functions.
+qt-proxy.org	                 Replaced qt-team.com in late 2025	          Active infrastructure element deployed to replace legacy qt-team.com assets.
+jump.qt-proxy.org	             Quartermaster Core	                          Mapped to IP 8.148.149[.]147 and active operational jump box.
+mq-task-qt-proxy.org 	         QScan Task Broker Engine	                    Mapped to IP 154.64.238[.]222; central RabbitMQ task engine.
+mq-result-qt-proxy.org	       QScan Aggregation Database	                  Mapped to IP 154.64.238[.]247; central Redis results database server.
+
+
+Native Commercial Application Egress Indicators:
+flanycast-us.yotocloud[.]com / flanycast-us-bak.yotocloud[.]com 
+flanycast-hk.yotocloud[.]com / flanycast-hk-bak.yotocloud[.]com 
+flanycast-jp.yotocloud[.]com 
+flanycast-tw.yotocloud[.]com 
+flanycast-sg.yotocloud[.]com 
+flnode-ulus.yotocloud[.]com 
+flnode-dl.yotocloud[.]com 
