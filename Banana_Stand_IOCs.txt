@@ -1,1 +1,119 @@
+Command and control IPs
 
+202.144.192[.]23
+ASN:63916, geo Japan
+Port:1883 tagged MQTT
+Port:2883 tagged MQTT
+Port:63196 tagged as SSH 
+Dffa94a0f9c4dc38d475a32741f7f134cc934c7b98bec581c135da1b5aa1983f
+January 20 to September 14, 2026
+
+210.1.226[.]238
+Port:8883 tagged SSL MQTT
+329f06012bca465dcaf1edbfdc20f1209b8ea00f269a8b890f165fb8c82c32d6
+Port:63196 tagged as SSH
+C4d4f8ccc9d2c4d289d8672396fdf0818b81551376057d43e76de66e29d73604
+January 20 to June 5, 2026
+
+210.1.226[.]163
+Port:63916 tagged as SSH	
+F8b8546daf5268e20e2ef7fe69c4442669c183c5c2b152bb11b23ad62ebcbd81
+January 20 to September 14, 2026
+
+210.1.231[.]13
+ASN:45785, geo Malaysia
+Port:443 
+X.509 fingerprint sha256: 44e3580d84ba7534e815ae9c12c4165fbc9313adc7475808908fec26e9b17f19
+Port:1883 tagged as MQTT
+Port:63916 tagged as SSH
+Ce4ce009fcebacf0b7e253409f1b192081b77f4d56bb3af0fa71d125aa060c51
+Port:64332 likely staging port
+5d06c1b06b48e9f61fec86179f194e0f611d6cf7495e0370a58844f0dddb437d
+January 20 to September 14, 2026
+
+202.144.192[.]149 - Japan
+ASN:63916, geo Japan
+Port:1883 tagged as MQTT
+Port:2883 tagged as MQTT
+Port 8883 tagged as SSL MQTT
+329f06012bca465dcaf1edbfdc20f1209b8ea00f269a8b890f165fb8c82c32d6
+Port:63916 tagged as SSH
+SSH fingerprint:c4d4f8ccc9d2c4d289d8672396fdf0818b81551376057d43e76de66e29d73604
+December 7, 2025, to September 14, 2026
+
+43.245.198[.]195
+Port:1883 tagged MQTT
+Port:63196 tagged as SSH 
+SSH fingerprint: Ca024caa58c1da0259157399c9f76d797b0148708628051ffdd465d5ff0feead
+March 3, 2026, to September 14, 2026
+
+43.245.198[.]238
+Port:1883 tagged MQTT
+Port:63196 tagged as SSH 
+SSH fingerprint: F8d57ed725f95f7784564a1bb1f5d9f7c3f6fc025ccc520188bccee0efd86a36
+January 20 to July 2, 2026
+
+Command and control domains
+
+Hostnames and their corresponding Ips:
+
+api80.c2iznja[.]com, 202.144.192[.]149	
+Newdma.c2iznja[.]com, 202.144.192[.]13	
+live-hk.c2iznja.com, 202.144.192[.]149	
+turbo.c2iznja[.]com, 210.1.231[.]13	
+base64.c2iznja[.]com, 202.144.192[.]149	
+Cache.c2iznja[.]com - Hidden behind Cloudflare 
+Apis.chat5188[.]tk - Hidden behind Cloudflare 	
+Chat.chat5188[.]tk - Hidden behind Cloudflare 
+Api08.chat5188[.]tk - 210.1.226[.]236	
+Api06.chat5188[.]tk - Hidden behind Cloudflare 
+
+BambooToken  Linux samples:
+
+Sha256:bf0681e43f51e98fe7ec24bf73a43facc66b0feb325a3a835f8f01b2861b926e 
+	/home/qwer/mosquitto/lib/
+
+BambooToken Windows:
+
+Loader Files
+Sha256: caec31e6439085bbe187a5daf19ccb5e17aab29fa113461bf0433f99c9342c7d  
+update.log
+Sha256: 96e0517d247e80b65bbafd9c4eee536676e4134e1f3b4aebe0cad53f9306a0ea  
+WindowsUpdate.bat
+ 
+OnKeyToken_KEB.dll
+Sha256:6663b63f70ceaee21a7cbff4bdfbe2916fa54759e839d76ba6d2372bcdb676d6
+	2023-05-16 07:19:58 UTC
+Sha256:1acc9b2f3bde5b3a3613feb59b03aae76197ad1e7d64d2a6fd4ce13cc3631e90
+Timestamp:2024-10-08 09:00:37 UTC
+	Zhuhai Kingsoft Office Software Co., Ltd. talks to bas64.c2n
+Sha256: 257012d4a268d8552d98bba9ecc2b879df9b064a2fe5d3ff3677cef59af945c2
+Sha256: 50b743ffa29cf8fe6cc5f40acdd3a503a1a4e8f3dadaf7826b03112afeea9508
+C:\Users\user\AppData\Local\Temp\mmo5ypx5.err\OnKeyToken_KEB.dll
+2023-02-27 01:38:31 UTC
+Sha256: D450e2fadbf20c8283b7cb0e1b54820c4a0a1d3dbb45ca895ac583d27189c53e
+	2023-01-16 05:11:26 UTC
+Sha256: 1f01aa693602179651441b067b980f0ecf014328572e1b24893e00a97bacccd8
+	2023-02-27 01:38:31 UTC
+Sha256: 1f01aa693602179651441b067b980f0ecf014328572e1b24893e00a97bacccd8 
+	Timestamp: 2023-02-17 02:31:11 UTC
+	
+FileName:OnKeySvr.dat
+Sha256: B5a2b06772a0362fb2c2defd63a1d892f3f80d93418b4dee99d655cc3da8581d
+	FileName:OnKeySvr.dat
+
+Antivirus plugin
+Sha256:2cbb7b04107eeab0fabb4f523f564acc69f1e8185f49542a88bec4f283ebdb71
+PDB Path: G:\Desktop\Source\curl\build_x64\x64\Release\app.pdb
+Timestamp:2026-01-20 01:34:00 UTC
+Sha256:A0ca9f37352673fa3013f7cabd07dedd95b3237e1587ca43988a223c76d8e783
+PDB Path: G:\Desktop\Source\curl\build_x64\x64\Release\app.pdb
+Timestamp:2025:03:27 06:18:33+00:00
+Sha256: 5db0cb4167fa241c2377d24916c345c670ed096c09d9a9e09197d176674f4eb1
+Sha256: 07a2e365508fe05e8bc822fbeac14999ed535e0384be59343498c031dfa00d68
+	2024-07-10 07:25:10 UTC
+
+Zip files: Contains the malicious agent and legitimate binary that gets side-loaded
+Sha256: 661029691b45783502d554e63124da38cfe33cf3611381851da1562c66e3cfa6
+Sha256: 75631b023b8fbbd7d69f7ce2353ef5559dea13b01a14aa5354d87549abf098f0
+Sha256: C6a1c0a8181b8388dd425fc18aad397cc6acd2e16a238e7713dd1656c88fe64e
