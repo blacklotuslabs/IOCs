@@ -2,6 +2,7 @@ Canto Incognito campaign, tracking the PoeLLM malware
 "present" date is October 7, 2026
  
 c2_ip	             min_date	    max_date
+
 92.119.164.50   	  7/23/2026	    Present
 103.249.201.108 	  8/13/2026     Present
 178.128.14.204	    6/16/2026	    Present
